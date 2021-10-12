@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a open source 🐍Python-developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, Student. Who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants to <b>learn</b> and 
+    I am a open source 🐍Python-developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, Student 👨‍🎓:. Who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants to <b>learn</b> and 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> as much as he can.
   </em>  
 </p>
@@ -22,7 +22,7 @@
 - 🥅 2021 Goals: Learn Django
 - ⚡ Fun fact: I am a Art Teacher
 
-
+[<img align="center" src="https://www.codewars.com/users/FatinShadab/badges/large"height="33"/>](https://www.codewars.com/users/FatinShadab/badges/large)
 
 ## ⚡ Technologies
 
@@ -32,6 +32,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Django](https://img.shields.io/badge/-Django-1572B6?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-1572B6?style=flat-square&logo=Flask)
+![Flask](https://img.shields.io/badge/-Pytorch-1572B6?style=flat-square&logo=pytorch)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1572B6?style=flat-square&logo=Bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
