@@ -19,6 +19,8 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Django](https://img.shields.io/badge/-Django-1572B6?style=flat-square&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-1572B6?style=flat-square&logo=Flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1572B6?style=flat-square&logo=Bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -41,8 +43,10 @@
 <br><br><br><br>
 
 
-## ✔️ 
-
+## :judge: Online Judges
+ - https://www.codewars.com/users/FatinShadab/badges/large
+<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=FatinShadab)
 <br>
 (Since <b>1 Feb, 2019 </b>)
 
