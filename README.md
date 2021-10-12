@@ -1,26 +1,25 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbspprint(Hello World !)&nbsp<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbsp;print(Hello World !)&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-fatin-shadab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatin-shadab-a6b11b1b8/)](https://www.linkedin.com/in/fatin-shadab-a6b11b1b8/) [![Github Badge](https://img.shields.io/badge/-FatinShadab-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FatinShadab)](https://github.com/FatinShadab) [![Twitter Badge](https://img.shields.io/badge/-@MS__Jahan__Sabit-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MS_Jahan_Sabit)](https://twitter.com/MS_Jahan_Sabit) [![Facebook Badge](https://img.shields.io/badge/-Fatin_Shadab-0572e6?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/fatin.shadab.1)](https://www.facebook.com/fatin.shadab.1)
+[![Github Badge](https://img.shields.io/badge/-FatinShadab-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FatinShadab)](https://github.com/FatinShadab) [![Facebook Badge](https://img.shields.io/badge/-Fatin_Shadab-0572e6?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/fatin.shadab.1)](https://www.facebook.com/fatin.shadab.1)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥  #ᗩ_ᑕOᗰᑭᑌTEᖇ_ᑎEᖇᗪ!
-- 🎓  𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘪𝘯𝘨 𝘮𝘺 𝘉𝘢𝘤𝘩𝘦𝘭𝘰𝘳 𝘰𝘧 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘵𝘩𝘦 [ℑ𝔫𝔰𝔱𝔦𝔱𝔲𝔱𝔢 𝔬𝔣 𝔖𝔠𝔦𝔢𝔫𝔠𝔢 𝔞𝔫𝔡 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶](https://ist.edu.bd/), 𝘣𝘢𝘵𝘤𝘩 𝚘𝚏 2019.
-- 🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘤𝘰𝘥𝘪𝘯𝘨.
-- 🎮  [𝓥𝓪𝓵𝓸𝓻𝓪𝓷𝓽](https://playvalorant.com/) ❤️‍🔥
-- ❤️  𝘓𝘰𝘷𝘦 𝘓𝘪𝘯𝘶𝘹 𝘢𝘯𝘥 𝘖𝘱𝘦𝘯 𝘚𝘰𝘶𝘳𝘤𝘦. 𝘐 𝘶𝘴𝘦 Manjaro, 𝘣𝘵𝘸! [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" height="30em" align="center" alt="Manjaro Linux Logo" title="Manjaro Linux Logo"/>](https://manjaro.org/)
+- 🖥  #ᗩ_PYTHON_LOVER!
+- 🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 <b><li>PYTHON</li></b>.
+- 🎮  [MLBB](https://m.mobilelegends.com/en) ❤️‍🔥
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate in "Python Projects"
+- 🥅 2021 Goals: Learn Django
+- ⚡ Fun fact: I am a Art Teacher
 
 
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
@@ -29,11 +28,11 @@
 ## 🏃‍♂️ Stats
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=ms-jahan&show_icons=true&theme=gotham">
+    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=FatinShadab&show_icons=true&theme=gotham">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-jahan&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
+  <img height="175" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
   </a>
 </p>
 
@@ -66,9 +65,6 @@
 <h4 align="center">
   <a align="center" href=https://github.com/ms-jahan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-## 👁️ Visitors
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ms-jahan.ms-jahan&color=00cf00)
-
-(Since <b>10 March, 2021 | 12:08 am</b>)
+<br>
+(Since <b>1 Feb, 2019 </b>)
 
