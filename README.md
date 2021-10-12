@@ -1,6 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbsp;print(Hello World !)&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 [![Github Badge](https://img.shields.io/badge/-FatinShadab-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FatinShadab)](https://github.com/FatinShadab) [![Facebook Badge](https://img.shields.io/badge/-Fatin_Shadab-0572e6?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/fatin.shadab.1)](https://www.facebook.com/fatin.shadab.1)
+[![Hakerrank Bage](https://img.shields.io/website?label=MD._FATIN_SHADAB&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hackerrank.com/macrotech21)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥  #ᗩ_PYTHON_LOVER!
@@ -25,6 +26,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
 
@@ -41,11 +43,6 @@
 
 <br><br><br><br>
 <br><br><br><br>
-
-
-## :judge: Online Judges
- - https://www.codewars.com/users/FatinShadab/badges/large
-<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=FatinShadab)
 <br>
 (Since <b>1 Feb, 2019 </b>)
