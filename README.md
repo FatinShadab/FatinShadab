@@ -14,6 +14,9 @@
 <br>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<em>
+<img align="center" src="https://www.codewars.com/users/FatinShadab/badges/large"height="33"/>
+</em>
 - 🖥  #ᗩ_PYTHON_LOVER!
 - 🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  🐍 <b><i>PYTHON</i></b>.
 - 🎮  [<i><b>MLBB</b></i>](https://m.mobilelegends.com/en) ❤️‍🔥
@@ -21,9 +24,7 @@
 - 👯 I’m looking to collaborate in ** 🐍 Python Projects**
 - 🥅 2021 Goals: Learn Django
 - ⚡ Fun fact: I am a Art Teacher
-<em>
-[<img align="center" src="https://www.codewars.com/users/FatinShadab/badges/large"height="33"/>](https://www.codewars.com/users/FatinShadab/badges/large)
-</em>
+
 ## ⚡ Technologies
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
