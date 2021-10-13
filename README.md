@@ -38,7 +38,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Numpy](https://img.shields.io/badge/-Numpy-1572B6?style=flat-square&logo=numpy)
 ![Opencv](https://img.shields.io/badge/-Opencv-1572B6?style=flat-square&logo=opencv)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-1572B6?style=flat-square&logo=scikitlearn.)
+![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-1572B6?style=flat-square&logo=scikitlearn)
 ![Django](https://img.shields.io/badge/-Django-1572B6?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-1572B6?style=flat-square&logo=Flask)
 ![Flask](https://img.shields.io/badge/-Pytorch-1572B6?style=flat-square&logo=pytorch)
