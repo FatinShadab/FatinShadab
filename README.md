@@ -21,9 +21,9 @@
 - 👯 I’m looking to collaborate in ** 🐍 Python Projects**
 - 🥅 2021 Goals: Learn Django
 - ⚡ Fun fact: I am a Art Teacher
-
+<em>
 [<img align="center" src="https://www.codewars.com/users/FatinShadab/badges/large"height="33"/>](https://www.codewars.com/users/FatinShadab/badges/large)
-
+</em>
 ## ⚡ Technologies
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
