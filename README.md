@@ -23,11 +23,10 @@
 <ul>
   <li>🖥  #ᗩ_PYTHON_LOVER!</li>
   <li>🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  🐍 <b><i>PYTHON</i></b>.</li>
-  <li>🎮  [<i><b>MLBB</b></i>](https://m.mobilelegends.com/en) ❤️‍🔥</li>
   <li>🌱 I’m currently learning everything 🤣</li>
   <li>👯 I’m looking to collaborate in ** 🐍 Python Projects **</li>
   <li>🥅 2021 Goals: Learn Django</li>
-  <li>⚡ Fun fact: I am a Art Teacher</li>
+  <li>⚡ Fun fact: I am a Art Teacher 🎨</li>
 </ul>
   
 ## ⚡ Technologies
