@@ -36,12 +36,17 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Numpy](https://img.shields.io/badge/-Numpy-1572B6?style=flat-square&logo=numpy)
+![Opencv](https://img.shields.io/badge/-Opencv-1572B6?style=flat-square&logo=opencv)
+![Siki-tlearn](https://img.shields.io/badge/-Sikitlearn-1572B6?style=flat-square&logo=sikitlearn)
 ![Django](https://img.shields.io/badge/-Django-1572B6?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-1572B6?style=flat-square&logo=Flask)
 ![Flask](https://img.shields.io/badge/-Pytorch-1572B6?style=flat-square&logo=pytorch)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1572B6?style=flat-square&logo=Bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Anaconda](https://img.shields.io/badge/-Anaconda-%23007ACC?style=flat-square&logo=anaconda)
 ![Py Charm](https://img.shields.io/badge/-Pycharm-%23007ACC?style=flat-square&logo=Pycharm)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
@@ -63,16 +68,10 @@
 <br><br><br><br>
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/fatin-shadab-a6b11b1b8/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/FatinShadab) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/macrotech21) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:fatinshadab123@gmail.com) | [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebooklogo" height="33"/>](https://www.facebook.com/fatin.shadab.1)
-|:---:|:---:|:---:|:---:|:---:|
-
-<br>
-<br>
-
-## 👁️ Visitors
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=FatinShadab)
+<div align="center">
+  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/fatin-shadab-a6b11b1b8/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/FatinShadab) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/macrotech21) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:fatinshadab123@gmail.com) | [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebooklogo" height="33"/>](https://www.facebook.com/fatin.shadab.1)
+  |:---:|:---:|:---:|:---:|:---:|
+ </div>
 
 <br>
-(Since <b>1 Feb, 2019 | 8:08 am</b>)
-
+<br>
