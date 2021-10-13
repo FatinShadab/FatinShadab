@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a open source 🐍Python-developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, Student 👨‍🎓:. Who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants to <b>learn</b> and 
+    I am an open source 🐍Python-developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, Student 👨‍🎓:. Who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants to <b>learn</b> and 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> as much as he can.
   </em>  
 </p>
