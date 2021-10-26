@@ -59,7 +59,7 @@
  </p>
  <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact"/>
+  <img height="175" width="320" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact"/>
   </a>
 </p>
 
