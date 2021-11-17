@@ -40,7 +40,7 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-1572B6?style=flat-square&logo=scikitlearn)
 ![Django](https://img.shields.io/badge/-Django-1572B6?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-1572B6?style=flat-square&logo=Flask)
-![Cython](https://img.shields.io/badge/-Pytorch-1572B6?style=flat-square&logo=cython)
+![Cython](https://img.shields.io/badge/-Cython-1572B6?style=flat-square&logo=cython)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1572B6?style=flat-square&logo=Bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
