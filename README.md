@@ -69,9 +69,9 @@
 
 
 
-## PYPI Projects :snack:
+## PYPI Projects  🐍 
 <ul>
-  <li>![gle-ip-info](https://pypi.org/project/gle-ip-info/)</li>
+  [gle-ip-info] (https://pypi.org/project/gle-ip-info/)
   <li>![Treasure-Image](https://pypi.org/project/Treasure-Image/)</li>
 </ul>
 
