@@ -30,8 +30,6 @@
 </ul>
   
 ## ⚡ Technologies
-> learning & Using
-<br>
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -69,15 +67,15 @@
 
 <a href="https://github.com/FatinShadab/github-readme-activity-graph"><img alt="Fatin Shadab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FatinShadab&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br><br>
+<br>
 
 ## PYPI Projects :snack:
 <ul>
-  <li><i><b>[gle-ip-info](https://pypi.org/project/gle-ip-info/)</b></i></li>
-  <li><i><b>[Treasure-Image](https://pypi.org/project/Treasure-Image/)</b></i></li>
+  <li>[gle-ip-info](https://pypi.org/project/gle-ip-info/)</li>
+  <li>[Treasure-Image](https://pypi.org/project/Treasure-Image/)</li>
 </ul>
 
-<br><br><br>
+<br>
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
   | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/fatin-shadab-a6b11b1b8/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/FatinShadab) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/macrotech21) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:fatinshadab123@gmail.com) | [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebooklogo" height="33"/>](https://www.facebook.com/fatin.shadab.1)
