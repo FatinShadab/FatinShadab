@@ -30,6 +30,7 @@
 </ul>
   
 ## ⚡ Technologies
+> learning & Using
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -62,6 +63,11 @@
   <img height="175" width="320" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact"/>
   </a>
 </p>
+
+<br><br><br><br>
+<br><br><br><br>
+
+<a href="https://github.com/FatinShadab/github-readme-activity-graph"><img alt="Fatin Shadab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FatinShadab&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br><br><br><br>
 <br><br><br><br>
