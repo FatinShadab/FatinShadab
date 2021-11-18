@@ -67,14 +67,15 @@
 
 <a href="https://github.com/FatinShadab/github-readme-activity-graph"><img alt="Fatin Shadab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FatinShadab&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
+<br>
 
 ## PYPI Projects  🐍 
-<ul>
+<ul style="font-size:30px">
   <li><a href="https://pypi.org/project/gle-ip-info/"><b><i>gle-ip-info</i></b></a></li>
   <li><a href="https://pypi.org/project/Treasure-Image/"><b><i>Treasure-Image</i></b></a></li>
 </ul>
 
+<br>
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
