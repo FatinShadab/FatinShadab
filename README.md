@@ -71,8 +71,8 @@
 
 ## PYPI Projects  🐍 
 <ul>
-  [gle-ip-info] (https://pypi.org/project/gle-ip-info/)
-  <li>![Treasure-Image](https://pypi.org/project/Treasure-Image/)</li>
+  <li><a href="https://pypi.org/project/gle-ip-info/" title="gle-ip-info"></a><li>
+  <li><a href="https://pypi.org/project/Treasure-Image/" title="Treasure-Image"></a></li>
 </ul>
 
 
