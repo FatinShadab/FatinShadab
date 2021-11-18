@@ -69,7 +69,7 @@
 
 <br>
 
-## PYPI Projects &nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" height="32px">
+## PYPI Projects   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" height="32px">
 <ul style="font-size:30px">
   <li><a href="https://pypi.org/project/gle-ip-info/"><b><i>gle-ip-info</i></b></a></li>
   <li><a href="https://pypi.org/project/Treasure-Image/"><b><i>Treasure-Image</i></b></a></li>
