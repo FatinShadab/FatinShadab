@@ -1,17 +1,5 @@
 # Fatin Shadab 
 
-
-
-                                                                                      
-<p> _ _ _     _                      _                                               _   </p>
-<p>| | | |___| |___ ___ _____ ___   | |_ ___    _____ _ _    ___ ___ ___ ___ _ _ ___| |_ </p>
-<p>| | | | -_| |  _| . |     | -_|  |  _| . |  |     | | |  | .'|  _|  _| . | | |   |  _|</p>
-<p>|_____|___|_|___|___|_|_|_|___|  |_| |___|  |_|_|_|_  |  |__,|___|___|___|___|_|_|_|  </p>
- <p>                                                 |___|                               </p>
-
-
-
-
 <p>
   <em>
     I am an open source 🐍Python-developer, Student 👨‍🎓:. Who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants to <b>learn</b> and 
