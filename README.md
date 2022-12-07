@@ -42,17 +42,17 @@
 <br>
 
 ## 🏃‍♂️ Stats
-<p style="margin-bottom: 25px;">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=FatinShadab&show_icons=true&theme=gotham">
   </a>
  </p>
- <p style="margin-bottom: 25px;">
+ <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="175" width="320" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact"/>
   </a>
 </p>
-
+<p align="center"> ------------------------------------------------------ </p>
 <br><br><br><br>
 [![Fatin Shadab's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FatinShadab&theme=merko)](https://github.com/FatinShadab/github-readme-activity-graph)
 
