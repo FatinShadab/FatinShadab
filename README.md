@@ -52,8 +52,10 @@
   <img height="175" width="320" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact"/>
   </a>
 </p>
-<br><br><br><br>
+
+
 [![Fatin Shadab's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FatinShadab&theme=merko)](https://github.com/FatinShadab/github-readme-activity-graph)
+
 <br>
 
 ## PYPI Projects   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" height="32px">
