@@ -54,7 +54,6 @@
 </p>
 
 <br><br><br><br>
-<p></p>
 <br><br><br><br>
 [![Fatin Shadab's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FatinShadab&theme=merko)](https://github.com/FatinShadab/github-readme-activity-graph)
 
