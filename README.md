@@ -53,9 +53,6 @@
   </a>
 </p>
 
-
-[![Fatin Shadab's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FatinShadab&theme=merko)](https://github.com/FatinShadab/github-readme-activity-graph)
-
 <br>
 
 ## PYPI Projects   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" height="32px">
