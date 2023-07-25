@@ -44,12 +44,12 @@
 ## 🏃‍♂️ Stats
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only">
+    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=FatinShadab&show_icons=true&theme=dark#gh-dark-mode-only">
   </a>
  </p>
  <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" width="320" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact"/>
+  <img height="175" width="320" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&hide=javascript,html"/>
   </a>
 </p>
 
