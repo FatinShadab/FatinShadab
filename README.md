@@ -44,7 +44,7 @@
 ## 🏃‍♂️ Stats
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=FatinShadab&show_icons=true&theme=gotham">
+    <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only">
   </a>
  </p>
  <p>
