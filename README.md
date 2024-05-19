@@ -21,7 +21,7 @@
   <li>🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  🐍 <b><i>PYTHON</i></b>.</li>
   <li>🌱 I’m currently learning everything 🤣</li>
   <li>👯 I’m looking to collaborate in ** 🐍 Python Projects **</li>
-  <li>🥅 2023 Goals: Completing Phitron Course, Be a better programmer</li>
+  <li>🥅 2024 Goals: yet to be announced!</li>
   <li>⚡ Fun fact: I am a Art Teacher 🎨</li>
 </ul>
   
@@ -49,15 +49,24 @@
  </p>
  <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&hide=javascript,html"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatinShadab&hide=javascript,html&heme=dark"/>
   </a>
 </p>
 
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
-## PYPI Projects   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" height="32px">
+## PYPI Projects   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" height="32px" style="margine-top:10px;">
 <ul style="font-size:30px">
   <li><a href="https://pypi.org/project/gle-ip-info/"><b><i>gle-ip-info</i></b></a></li>
   <li><a href="https://pypi.org/project/Treasure-Image/"><b><i>Treasure-Image</i></b></a></li>
