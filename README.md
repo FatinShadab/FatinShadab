@@ -1,4 +1,4 @@
-# Fatin Shadab 
+# Md. Fatin Shadab Turja
 
 <p>
   <em>
@@ -30,6 +30,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=js)
 ![Opencv](https://img.shields.io/badge/-Opencv-1572B6?style=flat-square&logo=opencv)
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-1572B6?style=flat-square&logo=scikitlearn)
 ![Django](https://img.shields.io/badge/-Django-1572B6?style=flat-square&logo=Django)
